@@ -1,0 +1,29 @@
+{
+  "name": "contest-bot",
+  "version": "0.0.1",
+  "description": "Discord bot for contest update",
+  "main": "index.js.js",
+  "author": "Darshan Patel <lazy14k@gmail.com>",
+  "license": "ISC",
+  "engines": {
+    "node": "16.x"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bufferutil": "^4.0.3",
+    "cache-manager": "^3.4.3",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^13.0.1",
+    "dotenv": "^8.2.0",
+    "fecha": "^4.2.1",
+    "humanize-duration": "^3.25.1",
+    "lodash": "^4.17.21",
+    "utf-8-validate": "^5.0.5",
+    "zlib-sync": "^0.1.7"
+  }
+}

@@ -1,0 +1,14 @@
+bin/pm2.yaml
+.idea/
+node_modules/
+.vscode/
+.history/
+.DS_Store
+test/coverage/
+milestones.txt
+log.csv
+runtime/customer_logs/
+.env
+db/game.json
+db/settings.json
+newrelic_agent.log
