@@ -43,7 +43,7 @@
 
 
 ## 📰 License
-> The **hello world** project is released under the [MIT license](https://github.com/devstrons/hello-world/blob/main/LICENSE.md). <br> Developed &amp; maintained By the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
+> The **devstrons' contest bot** project is released under the [MIT license](https://github.com/devstrons/hello-world/blob/main/LICENSE.md). <br> Developed &amp; maintained By the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
 <hr>
 
 > **YouTube** <a href="https://www.youtube.com/channel/UCG7JT7yqut81fqFsVBX6oMg" target="_blank" rel="noopener">@devstrons</a> &nbsp;&middot;&nbsp;
