@@ -25,9 +25,9 @@
   ```
 - Click on `OAuth2`, select `bot` & `appliations.commands` under `SCOPES`; and under `BOT PERMISSION`, check every box under `Text Permission`; Copy the link generated to call that bot in your server.
 - From left section, click on `Bot`-> `Add Bot` -> `Yes, do it`.
-- For,  hop to [this link](https://clist.by/) and Signup -> <your-username> at top -> select `API` -> `show my api-key` -> copy your unique API id as `ApiKey username:fc5505cf4a5c0ec16854972bf2538723xxxxxxxx` -> Paste it in `.env` as:
+- For,  hop to [this link](https://clist.by/) and Signup -> <your-username> at top -> select `API` -> `show my api-key` -> copy your unique API id as `ApiKey username:fc5505cf4a5c0ec16854972bf25387231cv35bm1` -> Paste it in `.env` as:
   ```
-  CLIST_API_KEY=ApiKey username:fc5505cf4a5c0ec16854972bf2538723xxxxxxxx
+  CLIST_API_KEY=ApiKey username:fc5505cf4a5c0ec16854972bf25387231cv35bm1
   ```
 - Copy & paste, the server id in `.env` file as:
   ```
