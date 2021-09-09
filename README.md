@@ -18,7 +18,7 @@
 
 - By forking, clone the repository in your local system.
 - Update the **node version (v16.x.x)** & **discord js (v13.1.0)**.
-- Make an app in the [Discord Developer Portal](https://discord.com/developers/applications) to hold the Discord bot.
+- Make an app in the [**Discord Developer Portal**](https://discord.com/developers/applications) to hold the Discord bot.
 - Open the folder in your IDE, & make a fille `.env` to setup the environment & carry credentials of Discord's developer portal.
 - Click on the `New Application` for naming your Discord bot and copy-paste the following content in `.env`:
 
@@ -42,6 +42,12 @@
 
 - In [bot.js](https://github.com/devstrons/contest-bot/blob/main/bot.js), comment the [line 23](https://github.com/devstrons/contest-bot/blob/main/bot.js#L23) & uncomment [line 24](https://github.com/devstrons/contest-bot/blob/main/bot.js#L24). 
 
+## 🤖 Official logo
+
+<p align="center">
+    <img width="20%" src="https://github.com/devstrons/contest-bot/blob/main/contest-bot-color.png">
+</p>
+
 ## 🧰 Testing
 
 - `npm install` — Installs all dependencies.
@@ -51,6 +57,7 @@
 
 > The **devstrons' contest bot** project is released under the [MIT license](https://github.com/devstrons/contest-bot/blob/main/LICENSE.md). <br> Developed &amp; maintained By the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
 <hr>
+
 > **YouTube** <a href="https://www.youtube.com/channel/UCG7JT7yqut81fqFsVBX6oMg" target="_blank" rel="noopener">@devstrons</a> &nbsp;&middot;&nbsp;
 > **Instagram** <a href="https://www.instagram.com/devstrons" target="_blank" rel="noopener">@devstrons</a> &nbsp;&middot;&nbsp;
 > **Discord** <a href="https://discord.com/invite/MVujzTBqed" target="_blank" rel="noopener">DEVSTR😊NS'</a> &nbsp;&middot;&nbsp;
