@@ -14,6 +14,11 @@
 </p>
 <br>
 
+## 🧰 Testing
+
+- `npm install` — Installs all dependencies.
+- `node index.js` — To run discord's bot.
+
 ## ⚡ Guidelines to follow
 
 - By forking, clone the repository in your local system.
@@ -47,11 +52,6 @@
 <p align="center">
     <img width="20%" src="https://github.com/devstrons/contest-bot/blob/main/contest-bot-color.png">
 </p>
-
-## 🧰 Testing
-
-- `npm install` — Installs all dependencies.
-- `node index.js` — To run discord's bot.
 
 ## 📰 License
 
