@@ -17,9 +17,10 @@
 ## ⚡ Guidelines to follow:
 
 - By forking, clone the repository in your local system.
-- Make an account for [Developer Portal](https://discord.com/developers/applications) to hold discord bot.
-- Open the folder in your IDE, & make a fille `.env` to setup the environment & carry credentials of discord's developer portal.
-- Click on the `New Application` for naming your discord bot and copy-paste in `.env` 
+- Update the **node version (v16.x.x)** & **discord js (v13.1.0)**.
+- Make an account for [developer portal](https://discord.com/developers/applications) to hold discord bot.
+- Open the folder in your IDE, & make a file `.env` to setup the environment & carry credentials of discord's developer portal.
+- Click on the `New Application` for naming your discord bot and copy-paste in `.env`:
   ```
   TOKEN=3ad852c30cda4bdfd2e942cfe5wc9d90b81710851e80cc5b3cfc5avac1965d1f
   ```
@@ -33,7 +34,6 @@
   ```
   HOME_GUILD_ID=885165658936049745
   ```
-- Update the node version (v16.x.x) & discord js (v13.1.0)
 - In [bot.js](https://github.com/devstrons/contest-bot/blob/main/bot.js), comment the [line 23](https://github.com/devstrons/contest-bot/blob/main/bot.js#L23) & uncomment [line 24](https://github.com/devstrons/contest-bot/blob/main/bot.js#L24). 
 
 ## 🧰 Testing
@@ -43,7 +43,7 @@
 
 
 ## 📰 License
-> The **devstrons' contest bot** project is released under the [MIT license](https://github.com/devstrons/hello-world/blob/main/LICENSE.md). <br> Developed &amp; maintained By the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
+> The **devstrons' contest bot** project is released under the [MIT license](https://github.com/devstrons/contest-bot/blob/main/LICENSE.md). <br> Developed &amp; maintained By the DEVSTRONS' Community. Copyright 2021 © DEVSTRONS.
 <hr>
 
 > **YouTube** <a href="https://www.youtube.com/channel/UCG7JT7yqut81fqFsVBX6oMg" target="_blank" rel="noopener">@devstrons</a> &nbsp;&middot;&nbsp;
