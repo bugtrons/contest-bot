@@ -1,4 +1,4 @@
-<img src="https://socialify.git.ci/devstrons/contest-bot/image?description=1&font=Raleway&owner=1&pattern=Circuit%20Board&theme=Dark" alt="devstrons contest bot" width="1000" height="300" />
+<img src="./Banner.png.png" />
 <p align="center">
   <p align="center">
     <a href="https://github.com/devstrons/contest-bot/blob/master/LICENSE" target="_blank">
