@@ -1,13 +1,12 @@
-<img src="https://socialify.git.ci/devstrons/contest-bot/image?description=1&font=Raleway&owner=1&pattern=Circuit%20Board&theme=Dark" alt="devstrons contest bot" width="1000" height="300" />
+<img src="./Banner.png.png" />
 <p align="center">
   <p align="center">
     <a href="https://github.com/devstrons/contest-bot/blob/master/LICENSE" target="_blank">
       <img alt="License: MIT" src="https://img.shields.io/github/license/devstrons/contest-bot?style=for-the-badge&logo=github?label=healthinesses" />
+         <a href="https://discord.gg/hC4aEgXmuf">
+      <img alt="Size" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    <a href="https://github.com/devstrons/contest-bot">
-      <img alt="Size" src="https://img.shields.io/github/languages/code-size/devstrons/contest-bot?style=for-the-badge&logo=github?label=healthinesses" />
-    </a>
-    <a href="https://github.com/devstrons/contest-bot">
+    <a href="https://github.com/devstrons/contest-bot/stargazers">
       <img alt="Stars" src="https://img.shields.io/github/stars/devstrons/contest-bot?style=for-the-badge&logo=github?label=healthinesses" />
     </a>
   </p>
@@ -46,12 +45,6 @@
   ```
 
 - In [bot.js](https://github.com/devstrons/contest-bot/blob/main/bot.js), comment the [line 23](https://github.com/devstrons/contest-bot/blob/main/bot.js#L23) & uncomment [line 24](https://github.com/devstrons/contest-bot/blob/main/bot.js#L24). 
-
-## 🤖 Official logo
-
-<p align="center">
-    <img width="20%" src="https://github.com/devstrons/contest-bot/blob/main/contest-bot-color.png">
-</p>
 
 ## 📰 License
 
