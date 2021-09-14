@@ -3,7 +3,7 @@
   <p align="center">
     <a href="https://github.com/devstrons/contest-bot/blob/master/LICENSE" target="_blank">
       <img alt="License: MIT" src="https://img.shields.io/github/license/devstrons/contest-bot?style=for-the-badge&logo=github?label=healthinesses" />
-         <a href="https://discord.gg/hC4aEgXmuf">
+         <a href="https://discord.com/invite/MVujzTBqed">
       <img alt="Size" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
     <a href="https://github.com/devstrons/contest-bot/stargazers">
