@@ -1,4 +1,4 @@
-<img src="./Banner.png.png" />
+<img src="./Banner.png" />
 <p align="center">
   <p align="center">
     <a href="https://github.com/devstrons/contest-bot/blob/master/LICENSE" target="_blank">
