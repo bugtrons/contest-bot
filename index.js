@@ -12,6 +12,10 @@ const bot = new Bot({
     intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES],
 })
 
+//
+// If unhandled promise rejection is
+// not handled node v16 will crash the process
+//
 process.on('unhandledRejection', (error) => {
     errorPrint(error, { description: 'Unhandled error' })
 })

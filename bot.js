@@ -10,9 +10,6 @@ module.exports = class extends Client {
         this.commands = new Collection()
         this.slashCommands = new Collection()
 
-        this.inviteLink = process.env.BOT_INVITE_LINK
-        this.prefix = process.env.PREFIX
-        this.supportServer = process.env.SUPPORT_SERVER_INVITE_LINK
         this.config = process.env
     }
 
@@ -20,10 +17,16 @@ module.exports = class extends Client {
         this.loadSlashCommands()
         this.loadEventListeners()
         await this.login(process.env.TOKEN)
-        await this.application.commands.set(commandsDefinition)
-        // await (await this.guilds.fetch(process.env.HOME_GUILD_ID)).commands.set(commandsDefinition) // Enable this when testing
-        await this.application.fetch()
-        await this.application.commands.set([])
+
+        // If HOME_GUILD_ID provided enable commands
+        // Only that guild else enable global commands
+        // Use this while testing
+        if (process.env.HOME_GUILD_ID) {
+            await (await this.guilds.fetch(process.env.HOME_GUILD_ID)).commands.set(commandsDefinition)
+        } else {
+            await this.application.fetch()
+            await this.application.commands.set(commandsDefinition)
+        }
     }
 
     loadSlashCommands() {
