@@ -26,9 +26,12 @@ module.exports = {
             // Prepare buttons
             const nextContest = new MessageButton().setCustomId('nextContest').setLabel('Next Contest').setStyle('PRIMARY')
             const prevContest = new MessageButton().setCustomId('prevContest').setLabel('Previous Contest').setStyle('PRIMARY')
+            const invite = new MessageButton().setStyle('LINK').setLabel('invite').setURL('https://discord.com/api/oauth2/authorize?client_id=874715712864788501&permissions=8&scope=applications.commands%20bot')
+            const vote = new MessageButton().setStyle('LINK').setLabel('vote').setURL('https://top.gg/bot/874715712864788501/vote')
+
             if (offset === 1) prevContest.setDisabled(true)
 
-            return new MessageActionRow().addComponents(nextContest, prevContest)
+            return new MessageActionRow().addComponents(nextContest, prevContest, invite, vote)
         }
 
         // Send Initial reply
