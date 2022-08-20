@@ -21,7 +21,7 @@
 ## ⚡ Guidelines to follow
 
 Wanna contribute to our project, but don't know how to start? :balloon: <br>
-Check out our [contributing guidelines]() for how to make your first contribution here.
+Check out our [contributing guidelines](https://github.com/devstrons/contest-bot/blob/main/CONTRIBUTING.md#-commit-guidelines) for how to make your first contribution here.
 
 ## 📰 License
 
